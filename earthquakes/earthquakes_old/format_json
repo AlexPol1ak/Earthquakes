@@ -1,0 +1,6 @@
+import json
+
+file = 'data/month_earthquakes.json'
+
+with open(file, encoding='utf-8') as f:
+	al = json.load(f)
