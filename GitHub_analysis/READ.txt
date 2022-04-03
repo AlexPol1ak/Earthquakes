@@ -1,0 +1,2 @@
+Анализ популярных репозиториев (java, python) на GitHub и статей на hacker-news с помощью API.
+Визуализация в plotly(HTML)
